@@ -1,0 +1,17 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "recipientName": "John Doe",
+        "occasion": "Birthday",
+        "characterTraits": "kind and thoughtful"
+      },
+      {
+        "id": 2,
+        "recipientName": "Jane Smith",
+        "occasion": "Graduation",
+        "characterTraits": "hardworking and determined"
+      }
+    ]
+  }
+     
